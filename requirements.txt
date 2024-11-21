@@ -1,0 +1,6 @@
+librespot>=0.0.9
+spotipy>=2.23.0
+mutagen>=1.47.0
+pydub>=0.25.1
+colorama>=0.4.6
+musicbrainzngs>=0.7.1
